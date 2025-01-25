@@ -1,0 +1,47 @@
+name: instagram_ui
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: Billabong
+      fonts:
+        - asset: fonts/Billabong.ttf
+
+  assets:
+    - images/SendIcon.png
+    - images/HeartIcon.png
+    - images/1.jpeg
+    - images/2.jpeg
+    - images/3.jpeg
+    - images/4.jpeg
+    - images/5.jpeg
+    - images/babar.jpeg
+    - images/short.webp
+    - images/profile.jpeg
+    - images/post.jpg
+    - images/ChatIcon.png
+    - images/BookMarkIcon.png
+    - images/reels.png
+    - images/filledHeart.png
+    - images/filledSearch.webp
+    - images/postIcon.webp
+    - images/cricket-1.jpg
+    - images/cricket-2.jpg
+    - images/cricket-3.jpg
+
